@@ -1,1 +1,6 @@
 C:\Users\Claus\Documents\tourny\tourny\tourny\bin\Debug\tourny.exe.config
+C:\Users\Claus\Documents\tourny\tourny\tourny\bin\Debug\tourny.exe
+C:\Users\Claus\Documents\tourny\tourny\tourny\bin\Debug\tourny.pdb
+C:\Users\Claus\Documents\tourny\tourny\tourny\obj\Debug\tourny.csprojResolveAssemblyReference.cache
+C:\Users\Claus\Documents\tourny\tourny\tourny\obj\Debug\tourny.exe
+C:\Users\Claus\Documents\tourny\tourny\tourny\obj\Debug\tourny.pdb
