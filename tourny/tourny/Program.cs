@@ -28,10 +28,12 @@ namespace tourny
 
 
             string participent = "https://api.challonge.com/v1/tournaments/925711/participants.json";
-            //string info =" {participant: {challonge_username:genesisdk";
-         // string  info = "{participant:{ challonge_username: genesisdk}";
-         string info = "participant[name] : azir";
-            web.POST(participent, info);
+            string info = " {participant: {participant[name]:genesisdk}}";   // is valid!!!!
+            //string  info = "{participant:{ challonge_username: genesisdk}";
+            //string info = "participant[name] : azir";
+            //string info = "{participant:{participant[name] : azir";
+            //var postData = "{\"platform\":\"[1]\", \"msg\":\"Hi from Tali\" ,\"badge\":\"10\" ,\"sound\":\"default\"}";
+            web.test(participent);
             Console.ReadLine();
         }
 
